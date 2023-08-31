@@ -2,7 +2,7 @@
 
 Projeto criado em busca de ajudar na melhoria da saúde e bem estar pessoal, ferramentas que contém no aplicativo: imc, mtb, ingestão diaria de água e entre outras dicas.
 
-<img src="https://github.com/heversonasc/Haffit-Fitnesstracker/assets/132730317/fc7df857-8ff4-46a6-bd6f-1edcd6e47022" width="250"  />
+<img src="https://github.com/heversonasc/Haffit-Fitnesstracker/assets/132730317/512b1107-ea94-4af1-8ea8-45f180dcf6d4" width="1080"  />
 
 # Ferramentas utilizadas na construção 
 - RecyclerView
