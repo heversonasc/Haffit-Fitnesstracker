@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Haffit</string>
+    <string name="label_imc">IMC</string>
+    <string name="label_tmb">TMB</string>
+    <string name="label_water">ÁGUA</string>
+    <string name="alarme_messagem">Hora de beber água! #haffit</string>
+    <string name="label_dicas">DICAS</string>
+    <string name="imc_desc">IMC é a sigla para Índice de Massa Corporal que serve para avaliar o peso
+        do indivíduo em relação à sua altura e assim indicar se está dentro do peso ideal,
+        acima ou abaixo do peso desejado.\n\nPreencha os campos de peso e altura para descobrir o seu IMC</string>
+
+    <string name="text_main"><b>Aproveite as ferramentas</b> abaixo para calcular seu índice de massa corporal (imc), taxa metabólica basal (mtb)
+        e administrar seu consumo de água, além de dicas para ter uma boa saúde e bem estar.</string>
+    <string name="tmb_desc">TMB é o cálculo para descobrir a quantidade calórica que o corpo necessita com base no seu estilo de vida</string>
+    <string name="wheight">Peso (kg)</string>
+    <string name="height">Altura (cm)</string>
+    <string name="calc">CALCULAR</string>
+    <string name="fields_messages">Todos os campos devem ser maiores que zero</string>
+    <string name="imc_severely_low_weight">Severamente abaixo do peso!\n\nRecomendado procurar um médico ou especialista para te auxiliar no ganho de peso ideal.</string>
+    <string name="imc_very_low_weight">Muito abaixo do peso! \n\nRecomendado procurar um médico ou especialista para te auxiliar no ganho de peso ideal.</string>
+    <string name="imc_low_weight">Abaixo do peso! \n\nIMC  entre 18,5 ou menos. Procure um médico. Algumas pessoas têm um baixo peso por características do seu organismo e tudo bem. Outras podem estar enfrentando problemas, como a desnutrição. É preciso saber qual é o caso.</string>
+    <string name="normal">Parabéns, Dentro do peso ideal! \n\nIMC entre 18,6 e 24,9. Que bom que você está com o peso normal! E o melhor jeito de continuar assim é mantendo um estilo de vida ativo e uma alimentação equilibrada.</string>
+    <string name="imc_high_weight">Sobrepeso! \n\nIMC entre 25,0 e 29,9. Ele é, na verdade, uma pré-obesidade e muitas pessoas nessa faixa já apresentam doenças associadas, como diabetes e hipertensão. Importante rever hábitos e buscar ajuda antes de, por uma série de fatores, entrar na faixa da obesidade pra valer.  </string>
+    <string name="imc_so_high_weight">Moderadamente obeso grau I! \n\nIMC entre 30,0 e 34,9. Sinal de alerta! Chegou na hora de se cuidar, mesmo que seus exames sejam normais. Vamos dar início a mudanças hoje! Cuide de sua alimentação. Você precisa iniciar um acompanhamento com nutricionista e/ou endocrinologista. </string>
+    <string name="imc_severely_high_weight">Obesidade grau II! \n\nIMC entre 35,0 e 39,9. Mesmo que seus exames aparentem estar normais, é hora de se cuidar, iniciando mudanças no estilo de vida com o acompanhamento próximo de profissionais de saúde. </string>
+    <string name="imc_extreme_weight">Obesidade grau III Cuidado! \n\nIMC acima de 40,0. Aqui o sinal é vermelho, com forte probabilidade de já existirem doenças muito graves associadas. O tratamento deve ser ainda mais urgente.</string>
+    <string name="imc_response">Seu IMC é: %1$.2f</string>
+    <string name="tmb_response">Seu TMB é: %1$.2f ! \n\nSe deseja emagrecer deve seguir uma dieta com menos de %1$.2f calorias por dia. Uma ótima opção para ajudar a emagrecer, é aumentar o seu gasto energético com a prática regular de atividade física.
+\n\nSe deseja engordar deve seguir uma dieta com mais de %1$.2f calorias por dia. </string>
+    <string name="list_response">Resultado: %1$.2f, data %2$s </string>
+    <string name="save">Salvar</string>
+    <string name="saved">Registro salvo com sucesso!</string>
+    <string name="search">Histórico</string>
+    <string name="age">Idade</string>
+    <string name="water_peso">Peso (Kg)</string>
+    <string name="water_idade">Sua idade</string>
+    <string name="textbutton">CALCULAR INGESTÃO DIÁRIA</string>
+    <string name="text_button_lembrete">Lembrete</string>
+    <string name="text_button_alarme">Alarme</string>
+    <string name="text_time">00</string>
+    <string name="text_two_points">:</string>
+    <string name="text_two_minutes">00</string>
+    <string name="toast_informe_peso">Informe seu peso!</string>
+    <string name="toast_informe_idade">Informe sua idade!</string>
+</resources>
